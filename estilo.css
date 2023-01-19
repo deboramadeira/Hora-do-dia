@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=League+Spartan:wght@100;400&family=Nunito&family=Oswald:wght@300&family=Plus+Jakarta+Sans:wght@200&family=Roboto+Slab&family=Roboto:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=League+Spartan:wght@100;400&family=Nunito&family=Oswald:wght@300&family=Plus+Jakarta+Sans:wght@200&family=Roboto:wght@500;700&display=swap');
+body{
+    background: rgb(107, 107 , 241);
+    font-family: 'Inconsolata', monospace;
+    font-size: 18pt;
+
+}
+
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.267);
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
